@@ -26,12 +26,12 @@
 
 #### **💻 Coding Languages**
 <p align="left">
-  <img src="https://github.com/user-attachments/assets/578f4e06-1910-4652-b38f-29a3321424a9" alt="python" title="python" height="40" />
-  <img src="https://github.com/user-attachments/assets/d0d5ea7a-ee64-4ba9-9071-7008914f4191" alt="SQL" title="SQL" height="40"/>
-  <img src="https://github.com/user-attachments/assets/6f48d2f7-5787-452a-89e6-bb87f69caf06" alt="HTML" title="HTML" height="45"/>
-  <img src="https://github.com/user-attachments/assets/c57e270c-0121-4e17-b822-b74751f6d568" alt="css" title="css" height="45"/>
-  <img src="https://github.com/user-attachments/assets/1ba8dab9-e0c4-4a86-ad3f-8c7f1f87ad89" alt="javascript" title="javascript" height="40"/>
-  <img src="https://github.com/user-attachments/assets/5ebf46b1-47ab-4e0a-8c9a-20663a51699a" alt="markdown" title="markdown" height="40"/>
+  <img src="https://github.com/user-attachments/assets/578f4e06-1910-4652-b38f-29a3321424a9" alt="python" title="python" style="height: 40px;"/>
+  <img src="https://github.com/user-attachments/assets/d0d5ea7a-ee64-4ba9-9071-7008914f4191" alt="SQL" title="SQL" style="height: 40px;"/>
+  <img src="https://github.com/user-attachments/assets/6f48d2f7-5787-452a-89e6-bb87f69caf06" alt="HTML" title="HTML" style="height: 40px;"/>
+  <img src="https://github.com/user-attachments/assets/c57e270c-0121-4e17-b822-b74751f6d568" alt="css" title="css" style="height: 40px;"/>
+  <img src="https://github.com/user-attachments/assets/1ba8dab9-e0c4-4a86-ad3f-8c7f1f87ad89" alt="javascript" title="javascript" style="height: 40px;"/>
+  <img src="https://github.com/user-attachments/assets/5ebf46b1-47ab-4e0a-8c9a-20663a51699a" alt="markdown" title="markdown" style="height: 40px;"/>
 </p>
 
 #### 📊 Python Libraries I’ve worked with 
@@ -55,26 +55,26 @@
 #### 📍 Development & Coding Environment
 
 <p align="left">
-  <img src="https://github.com/user-attachments/assets/6141564c-6e59-4e9c-b000-773f464efeb2" alt="VS code" title="VS code" height="40" />
-  <img src="https://github.com/user-attachments/assets/f6195f59-884b-460b-8c33-ffb2bd787c9a" alt="Pycharm" title="Pycharm" height="40"/>
-  <img src="https://github.com/user-attachments/assets/469face3-7580-4bd5-ad04-00a4a00c102a" alt="jupyter" title="jupyter" height="40"/>
-  <img src="https://github.com/user-attachments/assets/594cc57b-c7d9-48b6-91b0-57d2883d1b9f" alt="Colab" title="colab" height="40"/>
+  <img src="https://github.com/user-attachments/assets/6141564c-6e59-4e9c-b000-773f464efeb2" alt="VS code" title="VS code" style="height: 40px;" />
+  <img src="https://github.com/user-attachments/assets/f6195f59-884b-460b-8c33-ffb2bd787c9a" alt="Pycharm" title="Pycharm" style="height: 40px;"/>
+  <img src="https://github.com/user-attachments/assets/469face3-7580-4bd5-ad04-00a4a00c102a" alt="jupyter" title="jupyter" style="height: 40px;"/>
+  <img src="https://github.com/user-attachments/assets/594cc57b-c7d9-48b6-91b0-57d2883d1b9f" alt="Colab" title="colab" style="height: 40px;"/>
 </p>
 
 #### 📊 Data Handling & Analysis Tools  
 <p align="left">
-  <img src="https://github.com/user-attachments/assets/578f4e06-1910-4652-b38f-29a3321424a9" alt="python" title="python" height="40" />
-  <img src="https://github.com/user-attachments/assets/d0d5ea7a-ee64-4ba9-9071-7008914f4191" alt="sql" title="sql" height="40"/>
-  <img src="https://github.com/user-attachments/assets/d4203fbc-64f5-45f1-83ff-902476e9d4f5" alt="excel" title="excel" height="40"/>
-  <img src="https://github.com/user-attachments/assets/3eaaa75e-141d-4806-9293-f59c8fac00a0" alt="excel" title="excel" height="40"/>
-  <img src="https://github.com/user-attachments/assets/f8fb6713-39bc-4131-8355-7e62e9a5c43e" alt="powerbi" title="powerbi" height="40"/>
+  <img src="https://github.com/user-attachments/assets/578f4e06-1910-4652-b38f-29a3321424a9" alt="python" title="python" style="height: 40px;" />
+  <img src="https://github.com/user-attachments/assets/d0d5ea7a-ee64-4ba9-9071-7008914f4191" alt="sql" title="sql" style="height: 40px;"/>
+  <img src="https://github.com/user-attachments/assets/d4203fbc-64f5-45f1-83ff-902476e9d4f5" alt="excel" title="excel" style="height: 40px;"/>
+  <img src="https://github.com/user-attachments/assets/3eaaa75e-141d-4806-9293-f59c8fac00a0" alt="excel" title="excel" style="height: 40px;"/>
+  <img src="https://github.com/user-attachments/assets/f8fb6713-39bc-4131-8355-7e62e9a5c43e" alt="powerbi" title="powerbi" style="height: 40px;"/>
 </p>
 
 #### 🎨 Design & Creative Tools 
 <p align="left">
-  <img src="https://github.com/user-attachments/assets/abb1a530-bd3f-4fcf-b649-7124fa612eb6" alt="illustrator" title="illustrator" height="50" />
-  <img src="https://github.com/user-attachments/assets/11e1940b-6919-4773-a931-691bbac46e26" alt="photoshop" title="photoshop" height="45"/>
-  <img src="https://github.com/user-attachments/assets/db355e0c-47dc-49aa-a108-9140c4655e96" alt="figma" title="figma" height="40"/>
+  <img src="https://github.com/user-attachments/assets/abb1a530-bd3f-4fcf-b649-7124fa612eb6" alt="illustrator" title="illustrator" style="height: 40px;" />
+  <img src="https://github.com/user-attachments/assets/11e1940b-6919-4773-a931-691bbac46e26" alt="photoshop" title="photoshop" style="height: 40px;"/>
+  <img src="https://github.com/user-attachments/assets/db355e0c-47dc-49aa-a108-9140c4655e96" alt="figma" title="figma" style="height: 40px;"/>
 </p>
 
 ---
