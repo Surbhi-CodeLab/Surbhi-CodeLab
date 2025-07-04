@@ -79,7 +79,7 @@
 
 ---
 
-### Beyond the Code – Writing ✍️  
+### Beyond the Code - Writing ✍️  
 <p align="left"> I wear two pens, <br>
 one for logic and labs, writing with structure and precision, <br>
 and one for imagination, where stories and metaphors take the lead. <br> 
@@ -95,11 +95,11 @@ Both feel like home. 🌿
 🔹 If you're working on:
 
 - 📊 Data analysis, dashboards, Python workflows
-- 🔬 Wet lab explorations — happy to contribute and grow.
-- 💻 Dry lab & bioinformatics — tool/dev support.
-- 🎨 Creative science communication - design and writing.
+- 🔬 Wet lab explorations - happy to contribute and grow.
+- 💻 Dry lab & bioinformatics- tool/dev support.
+- 🎨 Creative science communication -design and writing.
 
- Let’s team up — I love building and learning together. ✨
+ Let’s team up! I love building and learning together. ✨
 
 ---
 
